@@ -1,21 +1,17 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+## Hi there 👋
+## <div>I'm Pankaj, a full-time Full-Stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
   
 
-### <div align="center">I'm Pankaj, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
+- 🔭 I’m currently building some side projects, check them out: [Revy](http://getrevy.com/) and [iConvey](https://iconvey.io/)  
   
 
-- 🔭 I’m currently working on [Revy](http://getrevy.com/) and [iConvey](https://iconvey.io/)  
-  
-
-- 🛶 Currently contributing to an Open-Source project [Minical](https://github.com/minical/minical) and [Moddio](https://github.com/moddio/taro)  
+- 🛶 I occasionally contribute to Open-Source projects including [Minical](https://github.com/minical/minical) and [Moddio](https://github.com/moddio/taro)  
   
 
 - 🌱 I’m currently learning Web3, Blockchain, Solidity, and a lot more new stuff.  
   
 
-- ❓ Ask me about anything related to MERN stack, Next.JS, MySQL, Web3, and related technologies.  
+- ❓ Ask me about anything related to MERN stack, Next.JS, PHP, MySQL, Web3, and related technologies.  
   
 
 <br/>  
